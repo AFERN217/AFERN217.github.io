@@ -1,4 +1,4 @@
-<script src=""></script">
+<script src="https://unpkg.com/launchdarkly-js-client-sdk@2.18.1/dist/ldclient.min.js"></script">
 
 <h1> Great LinkedIn Courses </h1>
 
